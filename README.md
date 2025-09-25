@@ -1,6 +1,5 @@
 # Superstore Sales Dashboard (Power BI)
 
-This project was created as part of **Data Analyst Internship – Task 4**.  
 The goal was to design an **interactive dashboard** in Power BI for business stakeholders.
 
 ---
