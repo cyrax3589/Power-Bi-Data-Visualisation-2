@@ -41,4 +41,5 @@ The goal was to design an **interactive dashboard** in Power BI for business sta
 ---
 
 ## Dashboard Preview
+<img width="2338" height="1653" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/c4a326b0-4263-47e5-8e49-d26e377f9546" />
 
